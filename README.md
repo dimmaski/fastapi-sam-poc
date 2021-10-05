@@ -1,4 +1,4 @@
-# demo
+# Deploy FastAPI on Lambda/API Gateway using SAM
 
 ```sh
 # setup locally
